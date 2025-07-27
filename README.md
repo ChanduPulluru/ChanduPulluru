@@ -13,6 +13,11 @@
 ---
 
 ### 📌 Projects
+### 🔹 [Payment Fraud Detection using Machine Learning](https://github.com/ChanduPulluru/OnlinePayFraudDetection)
+🚀 A machine learning project that identifies fraudulent payment transactions.
+
+### 🔹 [AgriDirect - Bring Farm to Table](https://github.com/ChanduPulluru/GoceryManagement)
+🚀 E-commerce-like platform connecting farmers to customers.Simulates grocery website with product listings, cart, and checkout.
 
 #### 🔹 [SimpleCompressor](https://github.com/ChanduPulluru/SimpleCompressor)
 > Compress text files using character frequency and min-heaps  
