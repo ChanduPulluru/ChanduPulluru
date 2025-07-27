@@ -1,16 +1,50 @@
-## Hi there 👋
+## 👋 Hi there, I’m Chandu Pulluru!
 
-<!--
-**ChanduPulluru/ChanduPulluru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a third-year Computer Science student at VIT-AP University, passionate about solving real-world problems using data structures, automation, and system-level programming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do:
+- 💻 Build efficient and scalable software using Python, Java, and C++
+- ⚙️ Solve problems using core CS concepts
+- 🔧 Develop automation tools and monitoring scripts
+- 🧠 Constantly learning and exploring new tech in backend and system design
+
+---
+
+### 📌 Projects
+
+#### 🔹 [SimpleCompressor](https://github.com/ChanduPulluru/SimpleCompressor)
+> Compress text files using character frequency and min-heaps  
+✅ Uses arrays, hash maps, heaps 
+✅ Optimizes file size and processing time
+
+#### 🔹 [TaskScheduler](https://github.com/ChanduPulluru/TaskScheduler)
+> Simulates task execution with priorities and deadlines  
+✅ Uses arrays, min-heap for scheduling logic  
+✅ Logs whether tasks complete on time  
+
+#### 🔹 [ResourceMonitor](https://github.com/ChanduPulluru/ResourceMonitor)
+> Real-time system monitor for CPU and memory usage  
+✅ Logs every 10 seconds to CSV  
+✅ Auto-generates reports for performance analysis
+
+---
+
+### 🛠️ Tech Stack
+- 💡 Languages: Python, C++, Java
+- 🔧 Tools: Git, VSCode, Linux, NumPy
+- 📊 Areas of Interest: Backend Dev, System Programming, Automation, DSA
+
+---
+
+### 📫 How to Reach Me
+- ✉️ Email: chandu.pulluru2021@vitapstudent.ac.in
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chandu-pulluru-92249728b/)
+- 💻 [GitHub](https://github.com/ChanduPulluru)
+
+---
+
+### 🎉 Fun Fact About Me
+I’m the kind of person who keeps tweaking code even after it works — just to make it cleaner.  
+> “Keep it clean. Keep it efficient.”
