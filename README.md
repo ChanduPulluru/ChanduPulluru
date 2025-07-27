@@ -39,7 +39,7 @@
 ---
 
 ### 📫 How to Reach Me
-- ✉️ Email: chandu.pulluru2021@vitapstudent.ac.in
+- ✉️ Email: chandu.23bce20234@vitapstudent.ac.in
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chandu-pulluru-92249728b/)
 - 💻 [GitHub](https://github.com/ChanduPulluru)
 
